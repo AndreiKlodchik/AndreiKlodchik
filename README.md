@@ -9,10 +9,10 @@
 ---
 
 #### I'm currently learning and practice:
-##### - Python
-##### - JavaScript
-##### - HTML
-##### - CSS
+##### * Python
+##### * JavaScript
+##### * HTML
+##### * CSS
 
 ---
 
