@@ -8,11 +8,11 @@
 
 ---
 
-#### - I'm currently learning and practice:
-##### - Python
-##### - JavaScript
-##### - HTML
-##### - CSS
+- I'm currently learning and practice:
+- Python
+- JavaScript
+- HTML
+- CSS
 
 ---
 
