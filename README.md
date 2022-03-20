@@ -10,6 +10,7 @@
 
 #### I'm currently learning and practice:
  - Python
+ - Go
  - JavaScript
  - HTML
  - CSS
