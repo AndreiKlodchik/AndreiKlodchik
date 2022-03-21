@@ -8,7 +8,7 @@
 
 ---
 
-#### I'm currently learning and practice:
+#### - I'm currently learning and practice:
  - Python
  - Go
  - JavaScript
